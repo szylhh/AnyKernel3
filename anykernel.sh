@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=KernelSU by CHF3
+kernel.string=KernelSU by szy
 do.devicecheck=0
 do.modules=0
 do.systemless=1
